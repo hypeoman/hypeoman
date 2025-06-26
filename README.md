@@ -7,9 +7,9 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/hyperoman">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-4e76a6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=hypeomane&style=for-the-badge&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=hypeomane&style=for-the-badge&color=4e76a6" alt=""/>
 </div>
 
 <!---
