@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @utsyi
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/hyperoman">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
