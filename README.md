@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @hypeoman
-- 👀 I’m interested in Anime, Programming, Games and Math
-- 🌱 I’m currently learning C++
-- 📚 I'm second-year student at BMSTU
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: @utsyi
-
 <div id="badges" align="center">
   <a href="https://t.me/hyperoman">
     <img src="https://img.shields.io/badge/Telegram-4e76a6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
