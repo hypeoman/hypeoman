@@ -1,4 +1,7 @@
 <div id="badges" align="center">
+  <a>
+    <img src="https://img.shields.io/badge/LeetCode-4e76a6?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
   <a href="https://t.me/hyperoman">
     <img src="https://img.shields.io/badge/Telegram-4e76a6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
